@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/steerc2217/github-readme-streak-stats">
+  <a href="https://github.com/pdragon0512/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pdragon0512" src="https://github-readme-streak-stats.herokuapp.com/?user=pdragon0512&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
   <a href="https://github.com/pdragon0512/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=pdragon0512&count_private=true&show_icons=true&custom_title=SteerC's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=pdragon0512&count_private=true&show_icons=true&custom_title=pdragon0512's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
