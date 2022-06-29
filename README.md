@@ -13,3 +13,29 @@
   <a href="https://github.com/steerc2217/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="steerc2217" src="https://github-readme-streak-stats.herokuapp.com/?user=steerc2217&theme=monokai-metallian&hide_border=true"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/steerc2217/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=steerc2217&count_private=true&show_icons=true&custom_title=SteerC's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    />
+   </a>
+
+  <a href="https://github.com/steerc2217/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=steerc2217&layout=compact&theme=vision-friendly-dark" />
+  </a>  
+</p>
+
+
+
+- 📫 How to reach me </br>
+    Email: skysteerc@gmail.com</br>
+    Skype: live:.cid.e5108135e0798fa1</br>
+    Telegram: steerc2217 </br>
+    
+    
+<h3 align="left">Languages and Tools:</h3>
