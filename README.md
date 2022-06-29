@@ -33,9 +33,8 @@
 
 
 - 📫 How to reach me </br>
-    Email: skysteerc@gmail.com</br>
-    Skype: live:.cid.e5108135e0798fa1</br>
-    Telegram: steerc2217 </br>
+    Email: pdragon0512@gmail.com</br>
+    Skype: live:.cid.f4705247c44eee3c</br>
     
     
 <h3 align="left">Languages and Tools:</h3>
